@@ -8,6 +8,8 @@
 
 **Description**: This repository contains the files for the landing page for the Horiseon Pantheon
 
+![Screenshot of Horiseon App](./Develop/Assets/images/screenshot.png)
+
 **Website**: https://bslockhart.github.io/HoriseonCodeRefactor/
 
-**Repository Link**: https://github.com/bslockhart
+**Repository Link**: https://github.com/bslockhart/HoriseonCodeRefactor
