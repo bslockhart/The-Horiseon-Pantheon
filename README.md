@@ -8,6 +8,6 @@
 
 **Description**: This repository contains the files for the landing page for the Horiseon Pantheon
 
-**Website**: https://bslockhart.github.io/The-Horiseon-Pantheon/
+**Website**: https://bslockhart.github.io
 
-**Repository Link**: https://github.com/bslockhart/The-Horiseon-Pantheon
+**Repository Link**: https://github.com/bslockhart
