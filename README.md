@@ -8,6 +8,6 @@
 
 **Description**: This repository contains the files for the landing page for the Horiseon Pantheon
 
-**Website**: https://bslockhart.github.io
+**Website**: https://bslockhart.github.io/HoriseonCodeRefactor/
 
 **Repository Link**: https://github.com/bslockhart
