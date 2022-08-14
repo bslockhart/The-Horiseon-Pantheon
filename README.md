@@ -10,6 +10,6 @@
 
 ![Screenshot of Horiseon App](./Develop/assets/images/screenshot.png)
 
-**Website**: https://bslockhart.github.io/HoriseonCodeRefactor/
+**Website**: https://bslockhart.github.io/The-Horiseon-Pantheon/
 
-**Repository Link**: https://github.com/bslockhart/HoriseonCodeRefactor
+**Repository Link**: https://github.com/bslockhart/The-Horiseon-Pantheon
